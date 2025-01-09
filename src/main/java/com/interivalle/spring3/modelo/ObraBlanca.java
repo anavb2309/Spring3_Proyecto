@@ -15,10 +15,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-/**
- *
- * @author Marysela Velasco
- */
 
 @Entity
 @Data
