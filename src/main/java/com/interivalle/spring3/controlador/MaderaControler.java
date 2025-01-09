@@ -15,10 +15,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- *
- * @author Marysela Velasco
- */
+
  @RestController
  @CrossOrigin(origins = "http://localhost:3000")
 public class MaderaControler {
