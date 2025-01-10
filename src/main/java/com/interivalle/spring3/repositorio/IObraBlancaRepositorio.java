@@ -8,10 +8,7 @@ import com.interivalle.spring3.modelo.ObraBlanca;
 import com.interivalle.spring3.modelo.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-/**
- *
- * @author Marysela Velasco
- */
+
 public interface IObraBlancaRepositorio extends JpaRepository<ObraBlanca, String>{
     
 }
