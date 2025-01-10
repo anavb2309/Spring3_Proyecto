@@ -6,10 +6,7 @@ package com.interivalle.spring3.servicio;
 
 import com.interivalle.spring3.modelo.Madera;
 
-/**
- *
- * @author Marysela Velasco
- */
+
 public interface IMaderaServicio {
     
     public Madera guardarMadera(Madera madera);

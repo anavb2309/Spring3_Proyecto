@@ -9,10 +9,7 @@ import com.interivalle.spring3.repositorio.IObraBlancaRepositorio;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- *
- * @author Marysela Velasco
- */
+
 @Service
 public class ObraBlancaServicio implements IObraBlancaServicio{
   

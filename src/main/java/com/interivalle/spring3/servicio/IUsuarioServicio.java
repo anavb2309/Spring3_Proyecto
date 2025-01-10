@@ -7,10 +7,7 @@ package com.interivalle.spring3.servicio;
 import com.interivalle.spring3.modelo.Usuario;
 import java.util.List;
 
-/**
- *
- * @author Marysela Velasco
- */
+
 public interface IUsuarioServicio {
     
     public Usuario buscarUsuarioPorEmail(String email);
